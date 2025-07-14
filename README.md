@@ -1,6 +1,6 @@
 
 ```markdown
-# 💻 Remote Worker Dashboard
+### 💻 Remote Worker Dashboard
 
 A **React-based dashboard** providing essential insights for remote workers by utilizing real-time browser APIs.
 
