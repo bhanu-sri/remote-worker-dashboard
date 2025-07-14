@@ -115,9 +115,3 @@ You can easily deploy this app using platforms like **Netlify** or **Vercel**.
 
 ```
 
----
-
-✅ You can **copy** this and **paste directly into `README.md`** in your GitHub repo.
-
-If you'd like, I can also help write a **simple one-line project description** for your GitHub repo description box. Let me know if you want it!
-```
