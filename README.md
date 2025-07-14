@@ -1,4 +1,3 @@
-Sure! Below is your **`README.md` file content in Markdown format** — ready to copy-paste directly into your repository.
 
 ---
 
