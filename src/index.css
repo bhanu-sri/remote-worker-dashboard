@@ -1,0 +1,88 @@
+/* Apply dark theme to the whole body */
+body {
+    background-color: #1e1e2f;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Sidebar styling */
+.sidebar {
+    background-color: #1e1e2f;
+    color: #ffffff;
+    height: 100vh;
+}
+
+.sidebar h5 {
+    color: #61dafb;
+}
+
+.sidebar .btn-link {
+    color: #ffffff;
+    text-align: left;
+    width: 100%;
+    padding: 10px 0;
+    border: none;
+    background: transparent;
+    text-decoration: none;
+}
+
+.sidebar .btn-link:hover {
+    background-color: #333;
+    color: #61dafb;
+}
+
+.sidebar {
+    background-color: #1e1e2f;
+    color: #ffffff;
+    height: 100vh;
+    border-right: 1px solid #444; /* Separation line */
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.dashboard-content {
+    background-color: #1e1e2f;
+    color: #ffffff;
+    padding: 2rem;
+    min-height: 100vh;
+    margin-left: 240px; /* Adjust for sidebar width */
+}
+
+.dashboard-content h2 {
+    color: #61dafb;
+}
+
+.dashboard-content p {
+    color: #ccc; /* Softer white for readability */
+}
+
+
+/* Sub-headings */
+h6 {
+    color: #61dafb;
+}
+
+/* Optional: Smooth fade for scroll animation */
+.fade-in {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.card {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+.fade {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+.show {
+    opacity: 1;
+    transform: translateY(0);
+}
