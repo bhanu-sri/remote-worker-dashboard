@@ -1,6 +1,3 @@
-
----
-
 ```markdown
 # 💻 Remote Worker Dashboard
 
@@ -112,6 +109,4 @@ You can easily deploy this app using platforms like **Netlify** or **Vercel**.
 
 * [React Documentation](https://react.dev/)
 * [Create React App Docs](https://create-react-app.dev/)
-
-```
 
