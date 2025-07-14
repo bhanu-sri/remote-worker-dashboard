@@ -1,12 +1,11 @@
 
-```markdown
-### 💻 Remote Worker Dashboard
+# Remote Worker Dashboard
 
 A **React-based dashboard** providing essential insights for remote workers by utilizing real-time browser APIs.
 
 ---
 
-## ✨ Features  
+## Features  
 
 ✅ Network Information (Using **Network Information API**)  
 ✅ User Location with Map (Using **Geolocation API**)  
@@ -73,12 +72,6 @@ The production-ready files will be in the `/build` directory.
 ## 📡 Deployment
 
 You can easily deploy this app using platforms like **Netlify** or **Vercel**.
-
-### Example (Netlify):
-
-1. Run `npm run build`
-2. Drag & drop the `/build` folder into Netlify
-3. Done ✅
 
 ---
 
